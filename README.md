@@ -1,4 +1,4 @@
-MIT ProX Data Science Case Study 1.4 - Article Extraction and Spectral Clustering Analysis
+MIT xPro Data Science Case Study 1.4 - Article Extraction and Spectral Clustering Analysis
 ==================================================================================================
 
 Intro
